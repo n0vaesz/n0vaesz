@@ -42,3 +42,5 @@ I believe that the future belongs to innovators and those who constantly seek kn
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank" />
   </a>
 </div>
+
+![SnakeAnimation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
