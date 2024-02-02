@@ -1,9 +1,9 @@
-<h1 align="left">Hello, Welcome to my Github</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&random=false&width=435&lines=Welcome+to+my+profile)](https://git.io/typing-svg)
 
-🌠 About Me
-<p>
-Olá, sou <strong>Henrique</strong>, um profissional apaixonado por tecnologia. Possuo conhecimento sólido em práticas e ferramentas DevOps, acreditando na integração harmoniosa entre desenvolvimento e operações para criar ambientes de entrega contínua eficientes, experiência prática com ferramentas  para acelerar o ciclo de vida do desenvolvimento. Estou imerso no estudo de desenvolvimento, concentrando meus esforços em linguagens como Python e JavaScript. Acredito que a programação é uma forma poderosa de transformar ideias em realidade. Minhas explorações recentes envolvem o fascinante mundo da computação em nuvem
-Acredito que o futuro pertence aos inovadores e aos que buscam constantemente conhecimento <strong>Estou aberto a novas oportunidades, colaborações e desafios. Sinta-se à vontade para explorar meus projetos e entre em contato para trocarmos ideias e experiências!</strong><P>
+# 🌠 About Me
+<h5 align="center"><font face="Arial">
+Hello, I'm <strong>Henrique</strong>, a professional passionate about technology. I have solid knowledge in DevOps practices and tools, believing in the harmonious integration between development and operations to create efficient continuous delivery environments, practical experience with tools to accelerate the development lifecycle. I am immersed in the study of development, focusing my efforts on languages ​​such as Python and JavaScript. I believe programming is a powerful way to turn ideas into reality. My recent explorations involve the fascinating world of cloud computing
+I believe that the future belongs to innovators and those who constantly seek knowledge. I am open to new opportunities, collaborations and challenges. Feel free to explore my projects and get in touch to exchange ideas and experiences!</strong></font></h5>
 
 ⚙️ &nbsp;GitHub Analytics
 <div align="center">
@@ -12,28 +12,17 @@ Acredito que o futuro pertence aos inovadores e aos que buscam constantemente co
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=n0vaesz&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-🧰 Toolkit:
+
+## 🧰 Toolkit:
 
 ![Pyhton](https://img.shields.io/badge/-Python-010101?style=for-the-badge&logo=python&Color=black)
-
-
 ![Terraform](https://img.shields.io/badge/-Terraform-010101?style=for-the-badge&logo=terraform&Color=black)
-
 ![Docker](https://img.shields.io/badge/-Docker-010101?style=for-the-badge&logo=docker&Color=black)
-
 ![Kubernetes](https://img.shields.io/badge/-kubernetes-010101?style=for-the-badge&logo=kubernetes&Color=black)
-
-
 ![GithubActions](https://img.shields.io/badge/-github%20actions-010101?style=for-the-badge&logo=githubactions&Color=black)
-
-
 ![JavaScript](https://img.shields.io/badge/-javascript-010101?style=for-the-badge&logo=javascript&Color=black)
-
 ![HTML](https://img.shields.io/badge/-html-010101?style=for-the-badge&logo=html5&Color=black)
-
-
 ![CSS](https://img.shields.io/badge/-css-010101?style=for-the-badge&logo=css3&Color=black)
-
 ![Linux](https://img.shields.io/badge/-linux-010101?style=for-the-badge&logo=linux&Color=black)
 
 🔗 Social Links
