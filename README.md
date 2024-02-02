@@ -5,7 +5,7 @@
 Hello, I'm <strong>Henrique</strong>, a professional passionate about technology. I have solid knowledge in DevOps practices and tools, believing in the harmonious integration between development and operations to create efficient continuous delivery environments, practical experience with tools to accelerate the development lifecycle. I am immersed in the study of development, focusing my efforts on languages ​​such as Python and JavaScript. I believe programming is a powerful way to turn ideas into reality. My recent explorations involve the fascinating world of cloud computing
 I believe that the future belongs to innovators and those who constantly seek knowledge. I am open to new opportunities, collaborations and challenges. Feel free to explore my projects and get in touch to exchange ideas and experiences!</strong></font></h5>
 
-⚙️ &nbsp;GitHub Analytics
+## ⚙️ &nbsp;GitHub Analytics
 <div align="center">
   <a href="https://github.com/n0vaesz">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=n0vaesz&show_icons=true&theme=dark&count_private=true"/>
@@ -25,7 +25,7 @@ I believe that the future belongs to innovators and those who constantly seek kn
 ![CSS](https://img.shields.io/badge/-css-010101?style=for-the-badge&logo=css3&Color=black)
 ![Linux](https://img.shields.io/badge/-linux-010101?style=for-the-badge&logo=linux&Color=black)
 
-🔗 Social Links
+## 🔗 Social Links
   <div> 
   <a href="https://www.instagram.com/n0vaesz/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" />
