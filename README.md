@@ -15,15 +15,18 @@ I believe that the future belongs to innovators and those who constantly seek kn
 
 ## 🧰 Toolkit:
 
+![Linux](https://img.shields.io/badge/-linux-010101?style=for-the-badge&logo=linux&Color=black)
+![Github](https://img.shields.io/badge/-github-010101?style=for-the-badge&logo=github&Color=black)
+![Git](https://img.shields.io/badge/-git-010101?style=for-the-badge&logo=git&Color=black)
 ![Pyhton](https://img.shields.io/badge/-Python-010101?style=for-the-badge&logo=python&Color=black)
+![JavaScript](https://img.shields.io/badge/-javascript-010101?style=for-the-badge&logo=javascript&Color=black)
 ![Terraform](https://img.shields.io/badge/-Terraform-010101?style=for-the-badge&logo=terraform&Color=black)
 ![Docker](https://img.shields.io/badge/-Docker-010101?style=for-the-badge&logo=docker&Color=black)
 ![Kubernetes](https://img.shields.io/badge/-kubernetes-010101?style=for-the-badge&logo=kubernetes&Color=black)
-![GithubActions](https://img.shields.io/badge/-github%20actions-010101?style=for-the-badge&logo=githubactions&Color=black)
-![JavaScript](https://img.shields.io/badge/-javascript-010101?style=for-the-badge&logo=javascript&Color=black)
 ![HTML](https://img.shields.io/badge/-html-010101?style=for-the-badge&logo=html5&Color=black)
 ![CSS](https://img.shields.io/badge/-css-010101?style=for-the-badge&logo=css3&Color=black)
-![Linux](https://img.shields.io/badge/-linux-010101?style=for-the-badge&logo=linux&Color=black)
+![GithubActions](https://img.shields.io/badge/-github%20actions-010101?style=for-the-badge&logo=githubactions&Color=black)
+
 
 ## 🔗 Social Links
   <div> 
