@@ -2,8 +2,7 @@
 
 # 🏆 About Me
 <h5 align="center"><font face="Arial">
-Hello, I'm <strong>Henrique</strong>, a professional passionate about technology. I have solid knowledge in DevOps practices and tools, believing in the harmonious integration between development and operations to create efficient continuous delivery environments, practical experience with tools to accelerate the development lifecycle. I am immersed in the study of development, focusing my efforts on languages ​​such as Python and JavaScript. I believe programming is a powerful way to turn ideas into reality. My recent explorations involve the fascinating world of cloud computing
-I believe that the future belongs to innovators and those who constantly seek knowledge. I am open to new opportunities, collaborations and challenges. Feel free to explore my projects and get in touch to exchange ideas and experiences!</strong></font></h5>
+I am a 20-year-old professional who is passionate about challenges. I stand out for my proactivity, teamwork and good communication skills. I have an easy time learning new technologies and focus on punctual deliveries that reflect my commitment.!</strong></font></h5>
 
 ## ⚙️ &nbsp;GitHub Analytics
 <div align="center">
