@@ -2,7 +2,7 @@
 
 # 🏆 About Me
 <h5 align="center"><font face="Arial">
-I am a 20-year-old professional who is passionate about challenges. I stand out for my proactivity, teamwork and good communication skills. I have an easy time learning new technologies and focus on punctual deliveries that reflect my commitment.!</strong></font></h5>
+I am a 20 year old professional who is passionate about challenges. I stand out for my proactivity, teamwork and good communication skills. I have an easy time learning new technologies and focus on punctual deliveries that reflect my commitment.!</strong></font></h5>
 
 ## ⚙️ &nbsp;GitHub Analytics
 <div align="center">
